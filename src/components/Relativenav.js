@@ -5,7 +5,7 @@ export default function Relativenav() {
     <div class="relative">
       <div class="fixed bottom-10 items-center left-8 md:max-w-screen-2xl invisible md:visible">
         <ul>
-          <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/latommyla"><svg class="mb-4 h-6 w-6 hover:fill-slate-300 duration-300"
+          <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/latommyla"><svg class="hover:-translate-y-2 mb-4 h-6 w-6 hover:fill-slate-300 duration-300"
             viewBox="0 0 128 128" fill="#fbbf24" role="img" aria-label="GitHub Profile">
             <title> GitHub Profile </title>
             <desc> GitHub Profile </desc>
@@ -17,7 +17,7 @@ export default function Relativenav() {
             </path>
           </svg></a>
           </li>
-          <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tommymla/"><svg class="h-6 w-6 mb-4 hover:fill-slate-300 duration-300"
+          <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tommymla/"><svg class="hover:-translate-y-2 h-6 w-6 mb-4 hover:fill-slate-300 duration-300"
             viewBox="0 0 128 128" fill="#fbbf24">
             <title> LinkedIn </title>
             <desc> LinkedIn </desc>
@@ -29,7 +29,7 @@ export default function Relativenav() {
           </svg></a>
           </li>
           <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/latommyla"><svg xmlns="http://www.w3.org/2000/svg" fill="#fbbf24"
-            class="w-6 h-6 mb-4 hover:fill-slate-300 duration-300" viewBox="0 0 16 16">
+            class="hover:-translate-y-2 w-6 h-6 mb-4 hover:fill-slate-300 duration-300" viewBox="0 0 16 16">
             <title> Instagram </title>
             <desc> Instagram </desc>
             <path
@@ -37,7 +37,7 @@ export default function Relativenav() {
           </svg></a>
           </li>
           <li><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChDFEl8nfsWEXLwiJp7ixqg"><svg xmlns="http://www.w3.org/2000/svg"
-            class="h-6 w-6 mb-14 hover:fill-slate-300 duration-300" fill="#fbbf24" viewBox="0 0 24 24">
+            class="hover:-translate-y-2 h-6 w-6 mb-14 hover:fill-slate-300 duration-300" fill="#fbbf24" viewBox="0 0 24 24">
             <title> YouTube </title>
             <desc> YouTube </desc>
             <path

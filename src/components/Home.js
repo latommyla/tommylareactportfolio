@@ -9,7 +9,7 @@ export default function Home() {
         <div class="m-auto text-center text-amber-400 pt-10 select-none">
           <h1 class="text-5xl md:text-6xl mb-2 font-monster transition transform hover:-translate-y-4"> I'm Tommy, </h1>
           <p class="text-2xl md:text-6xl font-monster"> a Full Stack Developer </p>
-          <Link to="about" smooth={true} duration={800}><svg xmlns="http://www.w3.org/2000/svg"
+          <Link to="about"><svg xmlns="http://www.w3.org/2000/svg"
             class="h-12 w-12 animate-bounce m-auto mt-40 hover:fill-slate-300 duration-300" viewBox="0 0 20 20"
             fill="currentColor">
             <path fill-rule="evenodd"

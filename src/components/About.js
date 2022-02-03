@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import Headshot from './imgs/profileheadshot.png'
 
 export default function About() {
