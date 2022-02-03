@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll'
+import Pdf from './imgs/tommylaresume.pdf'
 
 export default function Navbar() {
   return (
@@ -15,8 +16,8 @@ export default function Navbar() {
             Work </Link>
           <Link class="px-4 py-2 mt-2 text-xs font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-amber-400" to="contact" smooth={true} duration={800}>
             Contact </Link>
-          <a class="px-4 py-2 mt-2 text-xs font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-amber-400 uppercase"
-            href="./resume/tommylaresume.pdf" target="_blank"> Resume </a>
+          <a target="_blank" rel="noopener noreferrer" class="px-4 py-2 mt-2 text-xs font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-amber-400 uppercase"
+            href={Pdf}> Resume </a>
         </nav>
       </div>
     </div>
