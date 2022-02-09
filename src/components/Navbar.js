@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll'
-import Pdf from './imgs/tommylaresume.pdf'
+import Pdf from './imgs/tommymlaresume.pdf'
 
 export default function Navbar() {
   return (
