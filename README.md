@@ -21,6 +21,11 @@ A portfolio that is created by using React.js and TailwindCSS framework.
 - Contact
 - Downloadable Resume
 
+## What was used in this project?
+
+- [TailwindCSS](https://tailwindcss.com/)
+- [React.js](https://reactjs.org/)
+
 ## Contact
 
 - [Portfolio](https://tommymla.com/)
