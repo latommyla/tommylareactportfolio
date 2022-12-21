@@ -10,7 +10,7 @@ export default function Work() {
         <div class="flex w-screen md:w-screen">
           <div class="m-auto font-heebo text-center text-slate-300">
             <h2 class="text-xl sm:text-xl md:text-3xl font-bold pb-4"> Work </h2>
-            <p class="m-auto sm:text-lg md:text-xl md:w-3/5"> As a <b>Front End Developer</b> based in San Diego, I love
+            <p class="m-auto sm:text-lg md:text-xl md:w-3/5"> As a <b>Front End Developer</b> based in Irvine CA, I love
               thinking out of the box and creating something new for users. </p>
           </div>
         </div>
