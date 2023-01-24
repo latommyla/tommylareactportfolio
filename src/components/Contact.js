@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <div id="contact" class="bg-slate-700 bg-auto bg-fixed bg-center bg-no-repeat flex md:w-screen">
-      <div class="flex w-screen h-screen m-auto w-3/4 md:h-full md:w-screen md:max-w-screen-2xl">
+      <div class="flex w-screen h-screen m-auto w-3/4 md:h-screen md:w-screen md:max-w-screen-2xl">
         <div class="m-auto md:w-2/5 font-heebo text-center text-slate-300">
           <h2 class="text-2xl md:text-5xl font-bold pb-4"> Get In Touch </h2>
           <p class="mt-3"> Want to work together or have any questions? Feel free to send me an email, and I'll try my

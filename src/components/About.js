@@ -13,7 +13,7 @@ export default function About() {
                 development started a couple years ago with Myspace and Tumblr. Editing custom themes and adding random
                 components to your profile taught me a lot about HTML & CSS! </p>
               <p class="ml-6 mt-3"> Fast-forward to today, I finished and graduated the UCSD Coding Bootcamp. Wanted to take what originally started off as a interest, and turn it into a passion and a career. Tinkering with things and seeing the outcome, just puts the biggest smile on my face. </p>
-              <p class="ml-6 mt-3"> I am currently working at Creative Arcades LLC as a Front End Developer, managing e-commerce websites and developing new applications for the Shopify platform. Also developing new applications utilizing React and Vue with mobile first design and multiple framworks.</p>
+              <p class="ml-6 mt-3"> I am currently working at Creative Arcades as a Front End Developer, managing e-commerce websites and developing new applications for the Shopify platform. Also developing new applications utilizing React and Vue with mobile first design and multiple framworks.</p>
               <p class="ml-6 mt-3"> Here are the few techonolgies that I've been working with recently: </p>
               <div class="ml-4 flex grid-col-2 md:grid-col-2">
                 <div class="flex">
