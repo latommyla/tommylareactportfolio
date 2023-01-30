@@ -1,5 +1,4 @@
 import React from 'react';
-import Shoestring from './imgs/shoestring.png'
 import AppleMakeShift from './imgs/applemakeshift.png'
 
 export default function Work() {
