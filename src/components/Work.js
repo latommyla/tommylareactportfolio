@@ -1,5 +1,6 @@
 import React from 'react';
 import Shoestring from './imgs/shoestring.png'
+import AppleMakeShift from './imgs/applemakeshift.png'
 
 export default function Work() {
   return (
@@ -16,22 +17,23 @@ export default function Work() {
       <div
         class="place-items-center m-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 sm:w-fit sm:gap-x-4 md:gap-x-11 md:gap-14 md:w-3/4 md:max-w-screen-xl">
         <div class="text-slate-300 sm:w-fit md:w-fit w-screen p-4 md:p-0">
-          <a target="_blank" rel="noopener noreferrer" href="https://shoestring-finance.herokuapp.com/"><img
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/latommyla/applemakeshift/tree/main/applemakeshift"><img
             class="border border-transparent border-2 hover:border-amber-400 rounded-lg hover:opacity-80 md:mb-4 duration-300"
-            src={Shoestring} alt="Shoestring" title="Shoestring" /></a>
+            src={AppleMakeShift} alt="Applemakeshift" title="Applemakeshift" /></a>
         </div>
         <div class="text-slate-300 pb-6">
-          <p class="text-lg md:text-2xl font-bold"> Shoestring </p>
-          <p class="pb-3 md:pb-2 italic"> "For a life less complicated." </p>
-          <p class=""> A web application that allows you to keep track of monthly expenses all in one place.</p>
+          <p class="text-lg md:text-2xl font-bold"> Applemakeshift </p>
+          <p class="pb-3 md:pb-2 italic"> "Apple meets Shopify" </p>
+          <p class=""> Fun web application project based off of Apples simplistic design for E-Commerce websites.</p>
           <ul class="flex flex-start mt-4 text-sm">
+            <li class="mr-4"> React JS </li>
             <li class="mr-4"> TailwindCSS </li>
-            <li class="mr-4"> MySQL </li>
-            <li class="mr-4"> Handlebars.js </li>
-            <li> Node.js </li>
+            <li class="mr-4"> Flowbite </li>
+            <li class="mr-4"> Shopify </li>
+            <li> Node JS </li>
           </ul>
           <div class="flex mt-3 float-right">
-            <a target="_blank" rel="noopener noreferrer" href="https://github.com/DillanThomas88/project-2-interactive-full-stack-app"><svg
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/latommyla/applemakeshift/tree/main/applemakeshift"><svg
               class="h-7 w-7 hover:stroke-slate-300 hover:fill-slate-300 rounded-full duration-300"
               viewBox="0 0 128 128" fill="#fbbf24">
               <title> GitHub Repo </title>

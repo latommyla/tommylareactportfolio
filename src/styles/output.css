@@ -1023,10 +1023,6 @@ video {
     height: 16rem;
   }
 
-  .md\:h-full {
-    height: 100%;
-  }
-
   .md\:h-fit {
     height: -moz-fit-content;
     height: fit-content;
